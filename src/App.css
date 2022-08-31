@@ -37,7 +37,15 @@
   }
 }
 
-.figcaption {
+figcaption {
   position: absolute;
-  bottom: 50rem;
+  bottom: 15rem;
+  margin-left: 15rem;
 }
+
+figure {
+  position: relative;
+}
+
+
+
